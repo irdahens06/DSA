@@ -1,4 +1,4 @@
-# 📘 Data Structures and Algorithms in C
+# 📘 Data Structures in C
 
 This repository contains implementations of **Data Structures and Algorithms (DSA)** using the **C programming language**.  
 It is designed for learning, practicing, and preparing for coding interviews.
